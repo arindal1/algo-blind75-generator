@@ -1,6 +1,10 @@
 # 🧠 Blind 75 Generator
 
-A sleek, responsive React + Vite web app that generates a randomized set of 75 DSA problems based on categorized patterns. Export the list instantly as an Excel spreadsheet for focused practice.git init
+A sleek, responsive React + Vite web app that generates a randomized set of 75 DSA problems based on categorized patterns. Export the list instantly as an Excel spreadsheet for focused practice.
+
+## 🗿 Guide
+
+All pattern based problems: [here](public/dsa-patterns.md)
 
 ## 🛠️ Tech Stack
 
@@ -13,6 +17,8 @@ A sleek, responsive React + Vite web app that generates a randomized set of 75 D
 ## 📸 Preview
 
 ![Preview Screenshot](src/assets/image.png)
+
+[Live Link](https://algo-blind75-generator.vercel.app/)
 
 ## 🙋🏼‍♂️ Contact
 
